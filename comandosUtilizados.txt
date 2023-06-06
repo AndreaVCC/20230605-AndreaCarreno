@@ -1,0 +1,55 @@
+ 1963  git init
+ 1964  git remote add origin git@github.com:AndreaVCC/20230605-AndreaCarreno.git
+ 1965  git status
+ 1966  touch comandos.txt
+ 1967  touch main.js
+ 1968  touch index.html
+ 1969  git status
+ 1970  git add .
+ 1971  git commit -m"commit 01 de AndreaCarreño"
+ 1972  git branch -M main
+ 1975  git push --set-upstream origin main
+ 1982  remote -v
+ 1983  git remote -v
+ 1984  git push -u origin main
+ 1985  git branch -M main
+ 1986  git remote add origin https://github.com/AndreaVCC/20230605-AndreaCarreno.git
+ 1987  git push -u origin main
+ 1988  git push
+ 1989  git push --set-upstream origin main
+ 1990  [200~cd ~/.ssh
+ 1991  cd ~/.ssh
+ 1992  ssh-keygen
+ 1993  git status
+ 1994  git push
+ 1995  	git push --set-upstream origin main
+ 1996  cat ~/.ssh/id_rsa.pub
+ 1997  git push
+ 1998  	git push --set-upstream origin main
+ 1999  git config user.email "a.carreocoppo2@gmail.com"
+ 2000  git config user.name "AndreaVCC"
+ 2001  git push
+ 2002  git push --set-upstream origin main
+ 2003  git branch feature01
+ 2004  git checkout feature01
+ 2005  mkdir Terminal
+ 2006  mkdir Hardware
+ 2007  touch Terminal/resumen.txt
+ 2008  touch comandos/resumen.txt
+ 2009  touch Hardware/resumen.txt
+ 2010  git push origin feature01
+ 2011  git status
+ 2012  git add .
+ 2013  git commit -m"commit 02 de AndreaCarreño"
+ 2014  git push origin feature01
+ 2015  git branch feature02
+ 2016  git checkout feature02
+ 2017  git status
+ 2018  git add .
+ 2019  git commit -m"commit 03 de AndreaCarreño"
+ 2020  git push origin feature02
+ 2021  history
+ 2022  history > archivo.txt
+ 2023  git checkout main
+ 2024  mv comandos.txt comandosUtilizados.txt
+ 2025  history > archivo.txt
