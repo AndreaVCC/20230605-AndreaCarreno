@@ -1,0 +1,14 @@
+de la terminal:
+ls
+cd ..
+mkdir
+touch
+rm
+
+git:
+git add .
+git commit -m""
+git status
+git restore
+git pull
+
